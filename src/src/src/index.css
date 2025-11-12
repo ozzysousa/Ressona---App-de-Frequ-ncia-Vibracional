@@ -1,9 +1,0 @@
-/* src/index.css */
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
-/* Garante que o fundo da página seja o tema escuro do seu app */
-body {
-    background-color: #111827; 
-}
